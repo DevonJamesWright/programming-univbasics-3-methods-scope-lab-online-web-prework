@@ -13,3 +13,7 @@ def link
 old = "It's Dangerous To Go Alone! Take This."
 puts old
 end
+def any_phrase
+  wut = "big booty bitches"
+  puts wut 
+end
