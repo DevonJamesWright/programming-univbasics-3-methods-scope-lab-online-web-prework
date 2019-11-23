@@ -15,5 +15,4 @@ puts old
 end
 def any_phrase
   wut = "Do A Barrel Roll!"
-  puts wut 
 end
