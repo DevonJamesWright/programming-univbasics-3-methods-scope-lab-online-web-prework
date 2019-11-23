@@ -13,5 +13,4 @@ def link
 old = "It's Dangerous To Go Alone! Take This."
 puts old
 end
-def any_phrase
-end
+any_phrase 
