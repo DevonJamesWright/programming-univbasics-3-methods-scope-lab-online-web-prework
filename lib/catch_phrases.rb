@@ -11,5 +11,5 @@ def toadstool
 end
 def link
 old = "It's Dangerous To Go Alone! Take This."
-puts = old
+puts old
 end
